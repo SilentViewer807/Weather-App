@@ -4,7 +4,7 @@ Built with React and Vite. HTML, CSS, and JavaScript are included.
 
 ## Quick View
 
-[View Weather App On Vercel](https://docs.github.com)
+[View Weather App On Vercel](https://weather-app-xi-silk-31.vercel.app)
 
 ## Features
 
