@@ -1,8 +1,9 @@
 .footer {
   background-color: lightgray;
   width: 100%;
-  position: absolute;
-  top: 100%;
+  flex-shrink: 0;
+  padding: 20px 0; 
+  text-align: center;
 }
 
 .notice {
