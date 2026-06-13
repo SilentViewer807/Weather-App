@@ -34,9 +34,6 @@ Built with React and Vite. HTML, CSS, and JavaScript are included.
    ```
 4. Set up environment variables:
    * Create a file named `.env` in the root directory.
-     ```bash
-     touch .env
-     ```
    * Add your OpenWeather API key inside the file:
      ```env
      VITE_OPENWEATHER_API_KEY=your_own_api_key
