@@ -24,17 +24,21 @@ Built with React and Vite. HTML, CSS, and JavaScript are included.
    ```bash
    git clone https://github.com/SilentViewer807/Wordle-Game.git
    ```
-2. Install dependencies:
+2. Navigate to the project directory:
+   ```bash
+   cd Portfolio
+   ```
+3. Install dependencies:
    ```bash
    npm install
    ```
-3. Set up environment variables:
+4. Set up environment variables:
    * Create a file named `.env` in the root directory.
    * Add your OpenWeather API key inside the file:
      ```env
      VITE_OPENWEATHER_API_KEY=your_own_api_key
      ```
-4. Run the development server:
+5. Run the development server:
    ```bash
    npm run dev
    ```
