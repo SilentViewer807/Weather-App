@@ -33,12 +33,15 @@ Built with React and Vite. HTML, CSS, and JavaScript are included.
    npm install
    ```
 4. Set up environment variables:
-   * Rename .env.example to a file named `.env` in the root directory.
+   * If you don't see `.env.example` in the root directory, follow these substeps:
+        * On macOS: Press ```Cmd + Shift + .``` while in the folder.
+        * On Windows: Depending on your version, click the View tab, and show hidden files.
+   * Rename `.env.example` in the root directory to `.env`.
    * Add your OpenWeather API key inside the file:
      ```env
      VITE_OPENWEATHER_API_KEY=your_own_api_key
      ```
-5. Run the development server:
+6. Run the development server:
    ```bash
    npm run dev
    ```
