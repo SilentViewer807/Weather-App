@@ -22,11 +22,11 @@ Built with React and Vite. HTML, CSS, and JavaScript are included.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/SilentViewer807/Wordle-Game.git
+   git clone https://github.com/SilentViewer807/Weather-App.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Portfolio
+   cd Weather-App
    ```
 3. Install dependencies:
    ```bash
